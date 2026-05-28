@@ -1,0 +1,29 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="28" fill="#0D1117"/>
+  <path d="M0 260C150 220 250 340 400 290C550 240 620 150 760 185C900 220 990 330 1200 250V360H0V260Z" fill="#0969DA" fill-opacity="0.28"/>
+  <path d="M0 295C170 255 265 370 430 320C595 270 665 190 815 225C965 260 1030 345 1200 292V360H0V295Z" fill="#2EA44F" fill-opacity="0.22"/>
+  <circle cx="1040" cy="86" r="74" fill="#FFB000" fill-opacity="0.16"/>
+  <circle cx="112" cy="80" r="52" fill="#6F42C1" fill-opacity="0.22"/>
+  <g opacity="0.12">
+    <path d="M80 40H1120" stroke="#F0F6FC"/>
+    <path d="M80 90H1120" stroke="#F0F6FC"/>
+    <path d="M80 140H1120" stroke="#F0F6FC"/>
+    <path d="M80 190H1120" stroke="#F0F6FC"/>
+    <path d="M80 240H1120" stroke="#F0F6FC"/>
+    <path d="M80 290H1120" stroke="#F0F6FC"/>
+    <path d="M160 28V332" stroke="#F0F6FC"/>
+    <path d="M320 28V332" stroke="#F0F6FC"/>
+    <path d="M480 28V332" stroke="#F0F6FC"/>
+    <path d="M640 28V332" stroke="#F0F6FC"/>
+    <path d="M800 28V332" stroke="#F0F6FC"/>
+    <path d="M960 28V332" stroke="#F0F6FC"/>
+  </g>
+  <text x="96" y="118" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Sanli</text>
+  <text x="96" y="168" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="28">longdaydream40</text>
+  <text x="96" y="228" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="600">Python automation, WebUI tools, and campus utilities</text>
+  <text x="96" y="278" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="22">NJFU | Nanjing | practical software for repetitive workflows</text>
+  <g transform="translate(912 250)">
+    <rect width="192" height="44" rx="22" fill="#F0F6FC"/>
+    <text x="25" y="29" fill="#0D1117" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">BUILDING NOW</text>
+  </g>
+</svg>
