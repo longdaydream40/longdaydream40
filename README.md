@@ -22,9 +22,7 @@
 <!-- Personal info to customize later:
 - Display name: Sanli
 - Current learning focus
-- Email address
-- Blog / website URL
-- Social links
+- More social links
 -->
 
 ## Tech Stack
@@ -79,13 +77,13 @@
   <a href="https://github.com/longdaydream40">
     <img src="https://img.shields.io/badge/GitHub-longdaydream40-24292f?style=flat-square&logo=github" alt="GitHub" />
   </a>
+  <a href="mailto:longdaydream40@gamil.com">
+    <img src="https://img.shields.io/badge/Email-longdaydream40%40gamil.com-0969DA?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.xiaohongshu.com/search_result?keyword=18944690539">
+    <img src="https://img.shields.io/badge/Xiaohongshu-18944690539-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
+  </a>
+  <a href="https://pay.ldxp.cn/shop/Z1P07VOV">
+    <img src="https://img.shields.io/badge/Personal%20Store-pay.ldxp.cn-2EA44F?style=flat-square&logo=shopify&logoColor=white" alt="Personal Store" />
+  </a>
 </p>
-
-<!-- Add personal contact links here when ready:
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-your--email-0969DA?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://your-website.example.com">
-  <img src="https://img.shields.io/badge/Blog%20%2F%20Website-your--site-2EA44F?style=flat-square&logo=vercel&logoColor=white" alt="Blog or Website" />
-</a>
--->
