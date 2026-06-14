@@ -20,16 +20,18 @@
   <img src="https://img.shields.io/badge/Xiaohongshu-18944690539-FF2442?style=for-the-badge" alt="Xiaohongshu 18944690539" />
 </p>
 
-## About Me
+## About Me / 关于我
 
-I am Sanli, a student at Nanjing Forestry University. I build Python projects, WebUI tools, automation utilities, and small campus-focused products that make repeated work easier to finish.
+Hi, I am Sanli. 目前在 Nanjing Forestry University 学习，也在慢慢把日常里遇到的麻烦，整理成一些可复用的小工具。
 
-| Focus | What I Like Building |
+我主要写 Python，也会做 WebUI、automation scripts 和一些 campus-focused products。比起很宏大的东西，我更喜欢那些安静但有用的项目：能少点重复操作，能让流程顺一点，也能让学习和生活轻一点。
+
+| Focus | Things I care about |
 | --- | --- |
-| Python automation | Scripts, task runners, and practical workflow tools |
-| WebUI products | Simple interfaces for tools that should not stay in the terminal |
-| Campus utilities | Small software for learning, exams, documents, and daily school workflows |
-| Learning direction | Automation, developer tools, and full-stack workflows |
+| Python automation | 把重复的步骤写成 scripts，让事情更快结束 |
+| WebUI products | 给原本只在 terminal 里的工具，加一个更顺手的界面 |
+| Campus utilities | 面向课程、考试、文档和校园日常的小软件 |
+| Learning direction | Automation, developer tools, full-stack workflow，还有更好的产品感 |
 
 <!-- Personal info to customize later:
 - Display name: Sanli
@@ -37,7 +39,7 @@ I am Sanli, a student at Nanjing Forestry University. I build Python projects, W
 - More social links
 -->
 
-## Tech Stack
+## Tech Stack / 技术栈
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux" alt="Tech Stack" />
@@ -50,27 +52,31 @@ I am Sanli, a student at Nanjing Forestry University. I build Python projects, W
   <img src="https://img.shields.io/badge/Developer%20Tools-6F42C1?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Developer Tools" />
 </p>
 
-## Featured Work
+## Featured Work / 一些作品
 
-| Project | What It Does | Stack |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| [chaoxing-webui](https://github.com/longdaydream40/chaoxing-webui) | WebUI based on chaoxing-tui, with one-click startup and multi-user server deployment | Python, WebUI |
-| [NJFU-ExamTool](https://github.com/longdaydream40/NJFU-ExamTool) | A practical tool for completing ideological and political course quiz tasks | Python |
-| [NJFU-university-student-handbook](https://github.com/longdaydream40/NJFU-university-student-handbook) | A campus handbook project for NJFU students | Docs |
-| [pixel-motion](https://github.com/longdaydream40/pixel-motion) | Image cleanup utility for removing cyan backgrounds and edge halos | Python |
+| [chaoxing-webui](https://github.com/longdaydream40/chaoxing-webui) | 基于 chaoxing-tui 做的 WebUI，支持 one-click startup 和 multi-user server deployment | Python, WebUI |
+| [NJFU-ExamTool](https://github.com/longdaydream40/NJFU-ExamTool) | 一个面向思政课程题目流程的 practical tool，尽量把机械步骤交给程序 | Python |
+| [NJFU-university-student-handbook](https://github.com/longdaydream40/NJFU-university-student-handbook) | 为 NJFU students 整理的 campus handbook，方便查阅和沉淀信息 | Docs |
+| [pixel-motion](https://github.com/longdaydream40/pixel-motion) | 用来处理图片背景和边缘瑕疵的小工具，remove cyan backgrounds and edge halos | Python |
 
-## GitHub Snapshot
+## GitHub Snapshot / 代码足迹
 
 <p align="center">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=longdaydream40&show_icons=true&include_all_commits=true&theme=default&hide_border=true&border_radius=8" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longdaydream40&layout=compact&theme=default&hide_border=true&border_radius=8" alt="Top Languages" />
+  <img width="56%" src="./assets/github-stats-card.svg" alt="GitHub Stats" />
+  <img width="40%" src="./assets/top-languages-card.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=longdaydream40&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_title=true&hide_border=true&radius=8" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/longdaydream40/longdaydream40/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/longdaydream40/longdaydream40/output/github-contribution-grid-snake.svg" />
+    <img width="97%" src="https://raw.githubusercontent.com/longdaydream40/longdaydream40/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  </picture>
 </p>
 
-## Connect
+## Connect / 联系我
 
 <p align="center">
   <a href="https://github.com/longdaydream40">
